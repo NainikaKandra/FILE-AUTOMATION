@@ -1,0 +1,9 @@
+2026-06-25 18:15:12,927 - INFO - Moved file: movie.mp4 -> Videos/
+2026-06-25 18:15:12,935 - INFO - Moved file: notes.txt -> Documents/
+2026-06-25 18:15:12,937 - INFO - Moved file: photo.jpg -> Images/
+2026-06-25 18:15:12,940 - INFO - Moved file: report.pdf -> Documents/
+2026-06-25 18:15:12,942 - INFO - Moved file: song.mp3 -> Audio/
+2026-06-25 18:16:40,389 - INFO - Renamed file: notes.txt -> project_1.txt
+2026-06-25 18:16:40,391 - INFO - Renamed file: report.pdf -> project_2.pdf
+2026-06-25 18:17:20,611 - INFO - Program exited by user.
+2026-06-25 18:18:58,029 - INFO - Program exited by user.
