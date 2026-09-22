@@ -125,4 +125,4 @@ Through this project, I learned:
 
 ## Author
 
-S Mahammad Nadhim 
+Nainika Kandra
